@@ -1,0 +1,16 @@
+E:\VS_C#\Winform\PartOne\PartOne\bin\Debug\netcoreapp3.1\PartOne.exe
+E:\VS_C#\Winform\PartOne\PartOne\bin\Debug\netcoreapp3.1\PartOne.deps.json
+E:\VS_C#\Winform\PartOne\PartOne\bin\Debug\netcoreapp3.1\PartOne.runtimeconfig.json
+E:\VS_C#\Winform\PartOne\PartOne\bin\Debug\netcoreapp3.1\PartOne.runtimeconfig.dev.json
+E:\VS_C#\Winform\PartOne\PartOne\bin\Debug\netcoreapp3.1\PartOne.dll
+E:\VS_C#\Winform\PartOne\PartOne\bin\Debug\netcoreapp3.1\PartOne.pdb
+E:\VS_C#\Winform\PartOne\PartOne\obj\Debug\netcoreapp3.1\PartOne.csproj.AssemblyReference.cache
+E:\VS_C#\Winform\PartOne\PartOne\obj\Debug\netcoreapp3.1\PartOne.Form1.resources
+E:\VS_C#\Winform\PartOne\PartOne\obj\Debug\netcoreapp3.1\PartOne.csproj.GenerateResource.cache
+E:\VS_C#\Winform\PartOne\PartOne\obj\Debug\netcoreapp3.1\PartOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS_C#\Winform\PartOne\PartOne\obj\Debug\netcoreapp3.1\PartOne.AssemblyInfoInputs.cache
+E:\VS_C#\Winform\PartOne\PartOne\obj\Debug\netcoreapp3.1\PartOne.AssemblyInfo.cs
+E:\VS_C#\Winform\PartOne\PartOne\obj\Debug\netcoreapp3.1\PartOne.csproj.CoreCompileInputs.cache
+E:\VS_C#\Winform\PartOne\PartOne\obj\Debug\netcoreapp3.1\PartOne.dll
+E:\VS_C#\Winform\PartOne\PartOne\obj\Debug\netcoreapp3.1\PartOne.pdb
+E:\VS_C#\Winform\PartOne\PartOne\obj\Debug\netcoreapp3.1\PartOne.genruntimeconfig.cache

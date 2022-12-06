@@ -1,0 +1,15 @@
+E:\VS_C#\Winform\PartTwoRadio\PartTwoRadio\bin\Debug\netcoreapp3.1\PartTwoRadio.exe
+E:\VS_C#\Winform\PartTwoRadio\PartTwoRadio\bin\Debug\netcoreapp3.1\PartTwoRadio.deps.json
+E:\VS_C#\Winform\PartTwoRadio\PartTwoRadio\bin\Debug\netcoreapp3.1\PartTwoRadio.runtimeconfig.json
+E:\VS_C#\Winform\PartTwoRadio\PartTwoRadio\bin\Debug\netcoreapp3.1\PartTwoRadio.runtimeconfig.dev.json
+E:\VS_C#\Winform\PartTwoRadio\PartTwoRadio\bin\Debug\netcoreapp3.1\PartTwoRadio.dll
+E:\VS_C#\Winform\PartTwoRadio\PartTwoRadio\bin\Debug\netcoreapp3.1\PartTwoRadio.pdb
+E:\VS_C#\Winform\PartTwoRadio\PartTwoRadio\obj\Debug\netcoreapp3.1\PartTwoRadio.Form1.resources
+E:\VS_C#\Winform\PartTwoRadio\PartTwoRadio\obj\Debug\netcoreapp3.1\PartTwoRadio.csproj.GenerateResource.cache
+E:\VS_C#\Winform\PartTwoRadio\PartTwoRadio\obj\Debug\netcoreapp3.1\PartTwoRadio.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS_C#\Winform\PartTwoRadio\PartTwoRadio\obj\Debug\netcoreapp3.1\PartTwoRadio.AssemblyInfoInputs.cache
+E:\VS_C#\Winform\PartTwoRadio\PartTwoRadio\obj\Debug\netcoreapp3.1\PartTwoRadio.AssemblyInfo.cs
+E:\VS_C#\Winform\PartTwoRadio\PartTwoRadio\obj\Debug\netcoreapp3.1\PartTwoRadio.csproj.CoreCompileInputs.cache
+E:\VS_C#\Winform\PartTwoRadio\PartTwoRadio\obj\Debug\netcoreapp3.1\PartTwoRadio.dll
+E:\VS_C#\Winform\PartTwoRadio\PartTwoRadio\obj\Debug\netcoreapp3.1\PartTwoRadio.pdb
+E:\VS_C#\Winform\PartTwoRadio\PartTwoRadio\obj\Debug\netcoreapp3.1\PartTwoRadio.genruntimeconfig.cache
