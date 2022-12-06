@@ -1,0 +1,17 @@
+E:\VS_C#\Winform\Picturebox\Picturebox\bin\Debug\netcoreapp3.1\Picturebox.exe
+E:\VS_C#\Winform\Picturebox\Picturebox\bin\Debug\netcoreapp3.1\Picturebox.deps.json
+E:\VS_C#\Winform\Picturebox\Picturebox\bin\Debug\netcoreapp3.1\Picturebox.runtimeconfig.json
+E:\VS_C#\Winform\Picturebox\Picturebox\bin\Debug\netcoreapp3.1\Picturebox.runtimeconfig.dev.json
+E:\VS_C#\Winform\Picturebox\Picturebox\bin\Debug\netcoreapp3.1\Picturebox.dll
+E:\VS_C#\Winform\Picturebox\Picturebox\bin\Debug\netcoreapp3.1\Picturebox.pdb
+E:\VS_C#\Winform\Picturebox\Picturebox\obj\Debug\netcoreapp3.1\Picturebox.csproj.AssemblyReference.cache
+E:\VS_C#\Winform\Picturebox\Picturebox\obj\Debug\netcoreapp3.1\Picturebox.Form1.resources
+E:\VS_C#\Winform\Picturebox\Picturebox\obj\Debug\netcoreapp3.1\Picturebox.Properties.Resources.resources
+E:\VS_C#\Winform\Picturebox\Picturebox\obj\Debug\netcoreapp3.1\Picturebox.csproj.GenerateResource.cache
+E:\VS_C#\Winform\Picturebox\Picturebox\obj\Debug\netcoreapp3.1\Picturebox.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS_C#\Winform\Picturebox\Picturebox\obj\Debug\netcoreapp3.1\Picturebox.AssemblyInfoInputs.cache
+E:\VS_C#\Winform\Picturebox\Picturebox\obj\Debug\netcoreapp3.1\Picturebox.AssemblyInfo.cs
+E:\VS_C#\Winform\Picturebox\Picturebox\obj\Debug\netcoreapp3.1\Picturebox.csproj.CoreCompileInputs.cache
+E:\VS_C#\Winform\Picturebox\Picturebox\obj\Debug\netcoreapp3.1\Picturebox.dll
+E:\VS_C#\Winform\Picturebox\Picturebox\obj\Debug\netcoreapp3.1\Picturebox.pdb
+E:\VS_C#\Winform\Picturebox\Picturebox\obj\Debug\netcoreapp3.1\Picturebox.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+E:\VS_C#\Winform\PictureBoxDirector\bin\Debug\PictureBoxDirector.exe.config
+E:\VS_C#\Winform\PictureBoxDirector\bin\Debug\PictureBoxDirector.exe
+E:\VS_C#\Winform\PictureBoxDirector\bin\Debug\PictureBoxDirector.pdb
+E:\VS_C#\Winform\PictureBoxDirector\obj\Debug\PictureBoxDirector.csproj.AssemblyReference.cache
+E:\VS_C#\Winform\PictureBoxDirector\obj\Debug\PictureBoxDirector.Form1.resources
+E:\VS_C#\Winform\PictureBoxDirector\obj\Debug\PictureBoxDirector.Properties.Resources.resources
+E:\VS_C#\Winform\PictureBoxDirector\obj\Debug\PictureBoxDirector.csproj.GenerateResource.cache
+E:\VS_C#\Winform\PictureBoxDirector\obj\Debug\PictureBoxDirector.csproj.CoreCompileInputs.cache
+E:\VS_C#\Winform\PictureBoxDirector\obj\Debug\PictureBoxDirector.exe
+E:\VS_C#\Winform\PictureBoxDirector\obj\Debug\PictureBoxDirector.pdb
