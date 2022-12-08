@@ -1,0 +1,10 @@
+E:\VS_C#\Winform\ListView\obj\Debug\ListView.csproj.GenerateResource.cache
+E:\VS_C#\Winform\ListView\obj\Debug\ListView.csproj.CoreCompileInputs.cache
+E:\VS_C#\Winform\ListView\obj\Debug\ListView.csproj.AssemblyReference.cache
+E:\VS_C#\Winform\ListView\bin\Debug\ListViewList.exe.config
+E:\VS_C#\Winform\ListView\bin\Debug\ListViewList.exe
+E:\VS_C#\Winform\ListView\bin\Debug\ListViewList.pdb
+E:\VS_C#\Winform\ListView\obj\Debug\ListViewList.Form1.resources
+E:\VS_C#\Winform\ListView\obj\Debug\ListViewList.Properties.Resources.resources
+E:\VS_C#\Winform\ListView\obj\Debug\ListViewList.exe
+E:\VS_C#\Winform\ListView\obj\Debug\ListViewList.pdb

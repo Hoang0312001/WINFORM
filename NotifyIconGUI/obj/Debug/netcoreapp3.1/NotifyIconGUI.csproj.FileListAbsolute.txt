@@ -1,0 +1,16 @@
+E:\VS_C#\Winform\NotifyIconGUI\bin\Debug\netcoreapp3.1\NotifyIconGUI.exe
+E:\VS_C#\Winform\NotifyIconGUI\bin\Debug\netcoreapp3.1\NotifyIconGUI.deps.json
+E:\VS_C#\Winform\NotifyIconGUI\bin\Debug\netcoreapp3.1\NotifyIconGUI.runtimeconfig.json
+E:\VS_C#\Winform\NotifyIconGUI\bin\Debug\netcoreapp3.1\NotifyIconGUI.runtimeconfig.dev.json
+E:\VS_C#\Winform\NotifyIconGUI\bin\Debug\netcoreapp3.1\NotifyIconGUI.dll
+E:\VS_C#\Winform\NotifyIconGUI\bin\Debug\netcoreapp3.1\NotifyIconGUI.pdb
+E:\VS_C#\Winform\NotifyIconGUI\obj\Debug\netcoreapp3.1\NotifyIconGUI.csproj.AssemblyReference.cache
+E:\VS_C#\Winform\NotifyIconGUI\obj\Debug\netcoreapp3.1\NotifyIconGUI.Form1.resources
+E:\VS_C#\Winform\NotifyIconGUI\obj\Debug\netcoreapp3.1\NotifyIconGUI.csproj.GenerateResource.cache
+E:\VS_C#\Winform\NotifyIconGUI\obj\Debug\netcoreapp3.1\NotifyIconGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS_C#\Winform\NotifyIconGUI\obj\Debug\netcoreapp3.1\NotifyIconGUI.AssemblyInfoInputs.cache
+E:\VS_C#\Winform\NotifyIconGUI\obj\Debug\netcoreapp3.1\NotifyIconGUI.AssemblyInfo.cs
+E:\VS_C#\Winform\NotifyIconGUI\obj\Debug\netcoreapp3.1\NotifyIconGUI.csproj.CoreCompileInputs.cache
+E:\VS_C#\Winform\NotifyIconGUI\obj\Debug\netcoreapp3.1\NotifyIconGUI.dll
+E:\VS_C#\Winform\NotifyIconGUI\obj\Debug\netcoreapp3.1\NotifyIconGUI.pdb
+E:\VS_C#\Winform\NotifyIconGUI\obj\Debug\netcoreapp3.1\NotifyIconGUI.genruntimeconfig.cache

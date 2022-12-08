@@ -1,0 +1,16 @@
+E:\VS_C#\Winform\ToolTipGUI\bin\Debug\netcoreapp3.1\ToolTipGUI.exe
+E:\VS_C#\Winform\ToolTipGUI\bin\Debug\netcoreapp3.1\ToolTipGUI.deps.json
+E:\VS_C#\Winform\ToolTipGUI\bin\Debug\netcoreapp3.1\ToolTipGUI.runtimeconfig.json
+E:\VS_C#\Winform\ToolTipGUI\bin\Debug\netcoreapp3.1\ToolTipGUI.runtimeconfig.dev.json
+E:\VS_C#\Winform\ToolTipGUI\bin\Debug\netcoreapp3.1\ToolTipGUI.dll
+E:\VS_C#\Winform\ToolTipGUI\bin\Debug\netcoreapp3.1\ToolTipGUI.pdb
+E:\VS_C#\Winform\ToolTipGUI\obj\Debug\netcoreapp3.1\ToolTipGUI.csproj.AssemblyReference.cache
+E:\VS_C#\Winform\ToolTipGUI\obj\Debug\netcoreapp3.1\ToolTipGUI.Form1.resources
+E:\VS_C#\Winform\ToolTipGUI\obj\Debug\netcoreapp3.1\ToolTipGUI.csproj.GenerateResource.cache
+E:\VS_C#\Winform\ToolTipGUI\obj\Debug\netcoreapp3.1\ToolTipGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS_C#\Winform\ToolTipGUI\obj\Debug\netcoreapp3.1\ToolTipGUI.AssemblyInfoInputs.cache
+E:\VS_C#\Winform\ToolTipGUI\obj\Debug\netcoreapp3.1\ToolTipGUI.AssemblyInfo.cs
+E:\VS_C#\Winform\ToolTipGUI\obj\Debug\netcoreapp3.1\ToolTipGUI.csproj.CoreCompileInputs.cache
+E:\VS_C#\Winform\ToolTipGUI\obj\Debug\netcoreapp3.1\ToolTipGUI.dll
+E:\VS_C#\Winform\ToolTipGUI\obj\Debug\netcoreapp3.1\ToolTipGUI.pdb
+E:\VS_C#\Winform\ToolTipGUI\obj\Debug\netcoreapp3.1\ToolTipGUI.genruntimeconfig.cache

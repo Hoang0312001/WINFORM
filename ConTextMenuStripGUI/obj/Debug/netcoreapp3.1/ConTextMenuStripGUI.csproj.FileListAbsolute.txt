@@ -1,0 +1,16 @@
+E:\VS_C#\Winform\ConTextMenuStripGUI\bin\Debug\netcoreapp3.1\ConTextMenuStripGUI.exe
+E:\VS_C#\Winform\ConTextMenuStripGUI\bin\Debug\netcoreapp3.1\ConTextMenuStripGUI.deps.json
+E:\VS_C#\Winform\ConTextMenuStripGUI\bin\Debug\netcoreapp3.1\ConTextMenuStripGUI.runtimeconfig.json
+E:\VS_C#\Winform\ConTextMenuStripGUI\bin\Debug\netcoreapp3.1\ConTextMenuStripGUI.runtimeconfig.dev.json
+E:\VS_C#\Winform\ConTextMenuStripGUI\bin\Debug\netcoreapp3.1\ConTextMenuStripGUI.dll
+E:\VS_C#\Winform\ConTextMenuStripGUI\bin\Debug\netcoreapp3.1\ConTextMenuStripGUI.pdb
+E:\VS_C#\Winform\ConTextMenuStripGUI\obj\Debug\netcoreapp3.1\ConTextMenuStripGUI.csproj.AssemblyReference.cache
+E:\VS_C#\Winform\ConTextMenuStripGUI\obj\Debug\netcoreapp3.1\ConTextMenuStripGUI.Form1.resources
+E:\VS_C#\Winform\ConTextMenuStripGUI\obj\Debug\netcoreapp3.1\ConTextMenuStripGUI.csproj.GenerateResource.cache
+E:\VS_C#\Winform\ConTextMenuStripGUI\obj\Debug\netcoreapp3.1\ConTextMenuStripGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS_C#\Winform\ConTextMenuStripGUI\obj\Debug\netcoreapp3.1\ConTextMenuStripGUI.AssemblyInfoInputs.cache
+E:\VS_C#\Winform\ConTextMenuStripGUI\obj\Debug\netcoreapp3.1\ConTextMenuStripGUI.AssemblyInfo.cs
+E:\VS_C#\Winform\ConTextMenuStripGUI\obj\Debug\netcoreapp3.1\ConTextMenuStripGUI.csproj.CoreCompileInputs.cache
+E:\VS_C#\Winform\ConTextMenuStripGUI\obj\Debug\netcoreapp3.1\ConTextMenuStripGUI.dll
+E:\VS_C#\Winform\ConTextMenuStripGUI\obj\Debug\netcoreapp3.1\ConTextMenuStripGUI.pdb
+E:\VS_C#\Winform\ConTextMenuStripGUI\obj\Debug\netcoreapp3.1\ConTextMenuStripGUI.genruntimeconfig.cache

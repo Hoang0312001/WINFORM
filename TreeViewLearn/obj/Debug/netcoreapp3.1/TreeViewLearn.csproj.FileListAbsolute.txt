@@ -1,0 +1,16 @@
+E:\VS_C#\Winform\TreeViewLearn\bin\Debug\netcoreapp3.1\TreeViewLearn.exe
+E:\VS_C#\Winform\TreeViewLearn\bin\Debug\netcoreapp3.1\TreeViewLearn.deps.json
+E:\VS_C#\Winform\TreeViewLearn\bin\Debug\netcoreapp3.1\TreeViewLearn.runtimeconfig.json
+E:\VS_C#\Winform\TreeViewLearn\bin\Debug\netcoreapp3.1\TreeViewLearn.runtimeconfig.dev.json
+E:\VS_C#\Winform\TreeViewLearn\bin\Debug\netcoreapp3.1\TreeViewLearn.dll
+E:\VS_C#\Winform\TreeViewLearn\bin\Debug\netcoreapp3.1\TreeViewLearn.pdb
+E:\VS_C#\Winform\TreeViewLearn\obj\Debug\netcoreapp3.1\TreeViewLearn.csproj.AssemblyReference.cache
+E:\VS_C#\Winform\TreeViewLearn\obj\Debug\netcoreapp3.1\TreeViewLearn.Form1.resources
+E:\VS_C#\Winform\TreeViewLearn\obj\Debug\netcoreapp3.1\TreeViewLearn.csproj.GenerateResource.cache
+E:\VS_C#\Winform\TreeViewLearn\obj\Debug\netcoreapp3.1\TreeViewLearn.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS_C#\Winform\TreeViewLearn\obj\Debug\netcoreapp3.1\TreeViewLearn.AssemblyInfoInputs.cache
+E:\VS_C#\Winform\TreeViewLearn\obj\Debug\netcoreapp3.1\TreeViewLearn.AssemblyInfo.cs
+E:\VS_C#\Winform\TreeViewLearn\obj\Debug\netcoreapp3.1\TreeViewLearn.csproj.CoreCompileInputs.cache
+E:\VS_C#\Winform\TreeViewLearn\obj\Debug\netcoreapp3.1\TreeViewLearn.dll
+E:\VS_C#\Winform\TreeViewLearn\obj\Debug\netcoreapp3.1\TreeViewLearn.pdb
+E:\VS_C#\Winform\TreeViewLearn\obj\Debug\netcoreapp3.1\TreeViewLearn.genruntimeconfig.cache
