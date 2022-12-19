@@ -1,0 +1,16 @@
+E:\VS_C#\Winform\EntityFrameWorkGUI\EntityFrameWorkGUI\bin\Debug\EntityFrameWorkGUI.exe.config
+E:\VS_C#\Winform\EntityFrameWorkGUI\EntityFrameWorkGUI\bin\Debug\EntityFrameWorkGUI.exe
+E:\VS_C#\Winform\EntityFrameWorkGUI\EntityFrameWorkGUI\bin\Debug\EntityFrameWorkGUI.pdb
+E:\VS_C#\Winform\EntityFrameWorkGUI\EntityFrameWorkGUI\bin\Debug\EntityFramework.dll
+E:\VS_C#\Winform\EntityFrameWorkGUI\EntityFrameWorkGUI\bin\Debug\EntityFramework.SqlServer.dll
+E:\VS_C#\Winform\EntityFrameWorkGUI\EntityFrameWorkGUI\bin\Debug\EntityFramework.xml
+E:\VS_C#\Winform\EntityFrameWorkGUI\EntityFrameWorkGUI\bin\Debug\EntityFramework.SqlServer.xml
+E:\VS_C#\Winform\EntityFrameWorkGUI\EntityFrameWorkGUI\obj\Debug\EntityFrameWorkGUI.csproj.AssemblyReference.cache
+E:\VS_C#\Winform\EntityFrameWorkGUI\EntityFrameWorkGUI\obj\Debug\EntityFrameWorkGUI.csproj.SuggestedBindingRedirects.cache
+E:\VS_C#\Winform\EntityFrameWorkGUI\EntityFrameWorkGUI\obj\Debug\EntityFrameWorkGUI.Properties.Resources.resources
+E:\VS_C#\Winform\EntityFrameWorkGUI\EntityFrameWorkGUI\obj\Debug\EntityFrameWorkGUI.csproj.GenerateResource.cache
+E:\VS_C#\Winform\EntityFrameWorkGUI\EntityFrameWorkGUI\obj\Debug\EntityFrameWorkGUI.csproj.CoreCompileInputs.cache
+E:\VS_C#\Winform\EntityFrameWorkGUI\EntityFrameWorkGUI\obj\Debug\EntityFrameWorkGUI.csproj.CopyComplete
+E:\VS_C#\Winform\EntityFrameWorkGUI\EntityFrameWorkGUI\obj\Debug\EntityFrameWorkGUI.exe
+E:\VS_C#\Winform\EntityFrameWorkGUI\EntityFrameWorkGUI\obj\Debug\EntityFrameWorkGUI.pdb
+E:\VS_C#\Winform\EntityFrameWorkGUI\EntityFrameWorkGUI\obj\Debug\EntityFrameWorkGUI.Form1.resources

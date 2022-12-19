@@ -1,0 +1,16 @@
+C:\Users\TT\source\repos\TimesAndProcessGUI\bin\Debug\netcoreapp3.1\TimesAndProcessGUI.exe
+C:\Users\TT\source\repos\TimesAndProcessGUI\bin\Debug\netcoreapp3.1\TimesAndProcessGUI.deps.json
+C:\Users\TT\source\repos\TimesAndProcessGUI\bin\Debug\netcoreapp3.1\TimesAndProcessGUI.runtimeconfig.json
+C:\Users\TT\source\repos\TimesAndProcessGUI\bin\Debug\netcoreapp3.1\TimesAndProcessGUI.runtimeconfig.dev.json
+C:\Users\TT\source\repos\TimesAndProcessGUI\bin\Debug\netcoreapp3.1\TimesAndProcessGUI.dll
+C:\Users\TT\source\repos\TimesAndProcessGUI\bin\Debug\netcoreapp3.1\TimesAndProcessGUI.pdb
+C:\Users\TT\source\repos\TimesAndProcessGUI\obj\Debug\netcoreapp3.1\TimesAndProcessGUI.csproj.AssemblyReference.cache
+C:\Users\TT\source\repos\TimesAndProcessGUI\obj\Debug\netcoreapp3.1\TimesAndProcessGUI.Form1.resources
+C:\Users\TT\source\repos\TimesAndProcessGUI\obj\Debug\netcoreapp3.1\TimesAndProcessGUI.csproj.GenerateResource.cache
+C:\Users\TT\source\repos\TimesAndProcessGUI\obj\Debug\netcoreapp3.1\TimesAndProcessGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TT\source\repos\TimesAndProcessGUI\obj\Debug\netcoreapp3.1\TimesAndProcessGUI.AssemblyInfoInputs.cache
+C:\Users\TT\source\repos\TimesAndProcessGUI\obj\Debug\netcoreapp3.1\TimesAndProcessGUI.AssemblyInfo.cs
+C:\Users\TT\source\repos\TimesAndProcessGUI\obj\Debug\netcoreapp3.1\TimesAndProcessGUI.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\TimesAndProcessGUI\obj\Debug\netcoreapp3.1\TimesAndProcessGUI.dll
+C:\Users\TT\source\repos\TimesAndProcessGUI\obj\Debug\netcoreapp3.1\TimesAndProcessGUI.pdb
+C:\Users\TT\source\repos\TimesAndProcessGUI\obj\Debug\netcoreapp3.1\TimesAndProcessGUI.genruntimeconfig.cache
